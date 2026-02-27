@@ -1,7 +1,7 @@
 # Flashcards Project
 
 A simple Flashcard web application built using HTML, CSS, and JavaScript.
-#Link:Live Demo: https://PriyankaCh345.github.io/FlashCards--Project/
+Live Demo:  https://PriyankaCh345.github.io/FlashCards--Project/
 
 ## Features
 - View flashcards
